@@ -10,7 +10,7 @@ The pretrained models can be found at https://www.dropbox.com/sh/0ow2z3grt8xb1ub
 
 ## prediction results  
 ### 2x  
-
+![image](https://github.com/anonymoustbd/LS2SD/blob/main/images/2x_predictions/0000000000_vis.png)
 
 
 
