@@ -1,10 +1,10 @@
 # LS2SD
 Code is modified from [fangchangma](https://github.com/fangchangma/self-supervised-depth-completion).
 ## testing:  
-python main_test.py --evaluate model_path.  
+python main_test.py --evaluate your_model_path.  
   
 for example:  
-python main_test.py --evaluate /B/2x_4x/2x/results/867.284/model_best.pth.tar  
+python main_test.py --evaluate /parent_path/2x_4x/2x/results/867.284/model_best.pth.tar  
   
 ## pretrained models  
 The pretrained models can be found [here](https://www.dropbox.com/sh/0ow2z3grt8xb1ub/AACo0yCrmghjqgAxL4xJsuRaa?dl=0).
