@@ -15,6 +15,7 @@ Testing data examples can be found in the folder '/data/depth_selection/val_sele
 
 ## Several prediction results  
 Testing data examples can be found in folder '/data/depth_selection/val_selection_cropped/'.    
+![image](https://github.com/anonymoustbd/LS2SD/blob/main/images/2x_predictions/0000000000_vis.png)
   
 ### 2x  
 ![image](https://github.com/anonymoustbd/LS2SD/blob/main/images/2x_predictions/0000000000_vis.png)    
