@@ -12,10 +12,10 @@ The pretrained models are available [here](https://www.dropbox.com/sh/0ow2z3grt8
 
 ## Comparison
 Testing data examples can be found in the folder '/data/depth_selection/val_selection_cropped/'.
+![image](https://github.com/anonymoustbd/LS2SD/blob/main/comparison.png)   
 
 ## Several prediction results  
-Testing data examples can be found in folder '/data/depth_selection/val_selection_cropped/'.    
-![image](https://github.com/anonymoustbd/LS2SD/blob/main/images/2x_predictions/0000000000_vis.png)
+Testing data examples can be found in folder '/data/depth_selection/val_selection_cropped/'.  
   
 ### 2x  
 ![image](https://github.com/anonymoustbd/LS2SD/blob/main/images/2x_predictions/0000000000_vis.png)    
