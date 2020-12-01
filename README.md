@@ -8,6 +8,7 @@ python main_test.py --evaluate /parent_path/2x_4x/2x/results/867.284/model_best.
 python main_test.py --evaluate /parent_path/2x_4x/4x/results/963.634/model_best.pth.tar   
 
 ## pretrained models  
+The testing data examples can be found in folder 'data/depth_selection/val_selection_cropped'.   
 The pretrained models can be found [here](https://www.dropbox.com/sh/0ow2z3grt8xb1ub/AACo0yCrmghjqgAxL4xJsuRaa?dl=0). Please put the pretrained models under 867.284 or 963.634 folders.  
 
 ## prediction results  
