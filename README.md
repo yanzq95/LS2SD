@@ -12,8 +12,11 @@ for example:
 ## pretrained models    
 The pretrained models are available [here](https://www.dropbox.com/sh/0ow2z3grt8xb1ub/AACo0yCrmghjqgAxL4xJsuRaa?dl=0). Please put the pretrained models under '/867.284/' and '/963.634/' folders.  
 
-## Comparison
-![image](https://github.com/anonymoustbd/LS2SD/blob/main/kitti_vis_supp.png)   
+## Comparison   
+example 1:   
+![image](https://github.com/anonymoustbd/LS2SD/blob/main/kitti_vis_supp.png)  
+   
+example 2:         
 ![image](https://github.com/anonymoustbd/LS2SD/blob/main/kitti_vis2_supp.png)   
 
 ## Several other prediction   
