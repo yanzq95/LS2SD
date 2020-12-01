@@ -4,9 +4,9 @@ Code is modified from [fangchangma](https://github.com/fangchangma/self-supervis
 python main_test.py --evaluate your_model_path.  
   
 for example:  
-2x: 
+2x:  
 python main_test.py --evaluate /parent_path/2x_4x/2x/results/867.284/model_best.pth.tar  
-4x: 
+4x:  
 python main_test.py --evaluate /parent_path/2x_4x/4x/results/963.634/model_best.pth.tar   
 
 ## pretrained models    
